@@ -1,2 +1,1 @@
-# ExpertFool
-ExpertFool: Realistic Color Transformations for Robust Adversarial Images
+## ExpertFool: Realistic Color Transformations for Robust Adversarial Images
